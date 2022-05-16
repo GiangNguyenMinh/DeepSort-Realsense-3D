@@ -11,6 +11,8 @@ $ cd DeepSort-Realsense-3D
 $ pip install -r requirements.txt
 $ pip3 install pyrealsense2
 ```
+Clone deep_sort_pytorch weight form [here](https://drive.google.com/file/d/1WrAPyakHLov2-h_FRahsbH4IWFaFt572/view?usp=sharing), then copy to "./deep_sort_pytorch/deep_sort/deep/checkpoint"
+
 ## Tracking mode 
 ### Normal camera, webcam mode 
 Reference README.md in repository [here](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git) with python track_realsence.py ...
